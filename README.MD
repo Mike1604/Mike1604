@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mike</h1>
 <h3 align="center">A passionate software engineer from Mexico</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mike1604&label=Profile%20views&color=0e75b6&style=flat" alt="mike1604" /> </p>
+
 
 - 🌱 I’m currently learning **React Framework and I am trying to improve in Competitive Programming.**
 
